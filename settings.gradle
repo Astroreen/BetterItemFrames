@@ -1,0 +1,4 @@
+rootProject.name = 'BetterItemFrames'
+
+//for (final def api in libraryAPI) include ':AstroLibs' + api
+//project(':AstroLibs').projectDir = new File('..\\AstroLibs')
