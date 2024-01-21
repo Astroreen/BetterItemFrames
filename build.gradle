@@ -19,7 +19,8 @@ repositories {
 
 dependencies {
     compileOnly "org.spigotmc:spigot-api:1.20.4-R0.1-SNAPSHOT" //Spigot
-    //for (final def api in libraryAPI)  project(':AstroLibs' + api) //My library
+
+    implementation files('../AstroLibs/build/libs/AstroLibs.jar-1.0.000-all.jar') //My library
 }
 
 def targetJavaVersion = 17

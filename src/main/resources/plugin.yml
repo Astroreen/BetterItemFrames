@@ -4,3 +4,5 @@ main: me.astroreen.betteritemframes.BetterItemFrames
 api-version: '1.20'
 authors: [Astroreen]
 description: Upgrades vanilla item frames
+depend:
+  - AstroLibs

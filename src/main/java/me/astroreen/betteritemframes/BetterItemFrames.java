@@ -1,12 +1,11 @@
 package me.astroreen.betteritemframes;
 
-import org.bukkit.plugin.java.JavaPlugin;
+import me.astroreen.astrolibs.BukkitPluginTemplate;
 
-public final class BetterItemFrames extends JavaPlugin {
+public final class BetterItemFrames extends BukkitPluginTemplate {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
 
     }
 
